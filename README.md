@@ -126,12 +126,12 @@ The full customer research and segmentation was delivered internally, saving the
   </tr>
   <tr>
     <td>
-      <b>Ука Ука</b> — "Moni became so cool"<br>
+      <b>Ука Ука</b> — "Moni became so cool"<br/>
       <b>Oyungerel Delgermaa</b> — "Such an incredibly easy and simple app to use"
     </td>
     <td>
-      <b>Naranchimeg Monkhzul</b> — "Wow, Moni got updated and became so beautiful, the absolute best"<br>
-      <b>Lhamsuren Baynhuu</b> — "Moni is truly super"<br>
+      <b>Naranchimeg Monkhzul</b> — "Wow, Moni got updated and became so beautiful, the absolute best"<br/>
+      <b>Lhamsuren Baynhuu</b> — "Moni is truly super"<br/>
       <b>Tungaa Tungaa</b> — "Moni keeps growing better every day — wishing the team even greater success"
     </td>
   </tr>
