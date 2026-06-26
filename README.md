@@ -155,9 +155,9 @@ SQL to query and join 380,000 records properly instead of managing everything in
 
 **Omnicapital Loan Portfolio Analysis** — the traditional lending side of the same engagement: 3,900 loan records, non-performing loan analysis by location and demographics, and the Omnicapital website redesign built in Figma.
 
-→ [View Omnicapital project](../omnicapital-loan-portfolio-analysis)
+→ [View Omnicapital project](https://github.com/bulgandamdindorj/omnicapital-loan-portfolio-analysis)
 
 ---
 
 **Bulgan Damdindorj** · Vancouver, BC · MBA, University Canada West (2026)  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/bulgandamdindorj)
+[LinkedIn](https://www.linkedin.com/in/bulgan-damdindorj-915451289/) · [GitHub](https://github.com/bulgandamdindorj)
