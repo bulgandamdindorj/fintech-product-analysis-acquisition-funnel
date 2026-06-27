@@ -1,7 +1,7 @@
 # Fintech Product Analytics · UX Audit · Customer Segmentation · Acquisition Funnel
 
 **Company:** Moni — Fintech mobile app, Mongolia · operates under Omnicapital NBFI  
-[![iOS App](https://img.shields.io/badge/iOS-App-black?logo=apple)](https://apps.apple.com/mn/app/moni-digital/id1579010161)
+[Moni Mobile App](https://apps.apple.com/mn/app/moni-digital/id1579010161)
 **Target market:** Young, digital-first borrowers · short-term personal loans
 
 ---
